@@ -1,8 +1,8 @@
 Code/projects to upload:
 1. Erasthotenes' (sp?) Sieve (C# code)
-2. Minesweeper code (Python, no GUI)
+2. Minesweeper4 with tests
 3. Refactored (and extended?) version of WhaleTalkJS
-4. Add project to WPF viewer
-5. Refactored version of MinesweeperJS2
-6. Refactored and extended version of MiniLinterJS
+4. Add image viewer and database GUI projects to WPF viewer
+5. Refactored and extended version of MiniLinterJS
+6. Summer party invitation
 
